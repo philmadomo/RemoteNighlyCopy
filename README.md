@@ -12,6 +12,8 @@ LASTHOUR=7
 #Number of Duplicity Files
 NBRFILE=12345
 
-#FileName type : duplicity-full.201555331122.vol12345.difftar.gpg
+#FileName type should be like with "duplicity-full.201555331122.vol12345.difftar.gpg"
+#File name Prefix:
 PRENBRNAME="duplicity-full.201555331122.vol"
+#file name Suffix
 POSTNBRNAME=".difftar.gpg"
